@@ -1542,6 +1542,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+.flex{
+  display: flex;
+}
 
 /*--------------------------------------------------------------
 # Responsive Media Queries
